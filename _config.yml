@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "CHEN Xiaoyu/陈晓宇/陳暁宇"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Japan, Tokyo"
+  employer         : "Insititue of Science Tokyo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenxiaoyu.jp[at_mark]gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
