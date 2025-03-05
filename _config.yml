@@ -13,7 +13,7 @@ title                    : "CHEN Xiaoyu/Ph.D. in Engineering"
 title_separator          : "-"
 name                     : &name "CHEN Xiaoyu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://chanhuey-jp.github.io"
+url                      : https://chanhuey-jp.github.io # the base hostname & protocol for your site e.g. "https://chanhuey-jp.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chanhuey-jp/chanhuey-jp.github.io"
 
