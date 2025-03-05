@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "CHEN Xiaoyu/陈晓宇/陳暁宇"
+  avatar           : "Myphoto.png"
+  name             : "CHEN Xiaoyu / 陈晓宇 / 陳暁宇"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Japan, Tokyo"
