@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "CHEN Xiaoyu/Ph.D. in Engineering"
+title                    : "CHEN Xiaoyu / Ph.D. in Engineering"
 title_separator          : "-"
 name                     : &name "CHEN Xiaoyu"
 description              : &description "personal description"
