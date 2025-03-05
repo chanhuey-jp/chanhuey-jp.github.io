@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "CHEN Xiaoyu / Ph.D. in Engineering"
+title                    : "CHEN Xiaoyu's Homepage"
 title_separator          : "-"
 name                     : &name "CHEN Xiaoyu"
 description              : &description "personal description"
@@ -25,20 +25,20 @@ author:
   avatar           : "My.png"
   name             : "CHEN Xiaoyu / 陈晓宇 / 陳暁宇"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Japan, Tokyo"
-  employer         : "Insititue of Science Tokyo"
+  bio              : "For the Benefit of All"
+  location         : "Nagoya, Japan"
+  employer         : "Nagoya University"
   uri              : # URL
   email            : "chenxiaoyu.jp[at_mark]gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=6npMlFQAAAAJ&hl=EN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Xiaoyu-Chen-73"
   scopus           : # URL
 
   # Repositories and software development
