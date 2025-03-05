@@ -22,7 +22,7 @@ repository               : "chanhuey-jp/chanhuey-jp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Myphoto.png"
+  avatar           : "My.png"
   name             : "CHEN Xiaoyu / 陈晓宇 / 陳暁宇"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
