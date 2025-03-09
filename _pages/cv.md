@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**You can also find my CV here:** [Download CV (PDF)](/files/cv.pdf)  
+
 Education
 ======
 * Ph.D in Chemical Systems Enginnering, Nagoya University (Japan), 2025 (expected)
