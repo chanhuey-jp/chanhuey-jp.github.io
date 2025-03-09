@@ -7,5 +7,3 @@ date: 2024-02-17
 venue: 'Chemical Engineering Journal'
 paperurl: '10.1016/j.cej.2024.149540'
 ---
-
-[Download paper here](10.1016/j.cej.2024.149540)

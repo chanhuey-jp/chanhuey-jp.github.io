@@ -7,5 +7,3 @@ date: 2022-04-26
 venue: 'ACS Applied Energy Materials'
 paperurl: '10.1021/acsaem.2c00178'
 ---
-
-[Download paper here](10.1021/acsaem.2c00178)

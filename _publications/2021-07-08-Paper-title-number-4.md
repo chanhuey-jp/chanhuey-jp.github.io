@@ -7,5 +7,3 @@ date: 2021-07-08
 venue: 'ACS Applied Energy Materials'
 paperurl: '10.1021/acsaem.1c01352'
 ---
-
-[Download paper here](10.1021/acsaem.1c01352)

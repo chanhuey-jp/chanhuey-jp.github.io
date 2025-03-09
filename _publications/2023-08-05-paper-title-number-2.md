@@ -7,5 +7,3 @@ date: 2023-08-05
 venue: 'Solar Energy Materials and Solar Cells'
 paperurl: '10.1016/j.solmat.2023.112495'
 ---
-
-[Download paper here](10.1016/j.solmat.2023.112495)

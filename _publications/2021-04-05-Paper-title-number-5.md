@@ -7,5 +7,3 @@ date: 2021-04-05
 venue: 'Journal of Energy Storage'
 paperurl: '10.1016/j.est.2021.102501'
 ---
-
-[Download paper here](10.1016/j.est.2021.102501)
