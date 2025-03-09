@@ -17,33 +17,15 @@ Education
 
 Work experience
 ======
-* May 2022 - Mar 2025: Qualified Teaching Assistant
-  * Center for Artifical Intelligence, Mathematical and Data Science, Nagoya University
-  * Duties included: Helping student to learn Data Science
-
 * Apr 2025: Researcher
   * Institute of Science Tokyo
   * Research: CO<sub>2</sub> capture and utilization
   * Supervisor: Prof. Kato & A/P. Takasu
 
-#* Fall 2015: Research Assistant
-  #* GitHub University
-  #* Duties included: Merging pull requests
-  #* Supervisor: Professor Hub
+* May 2022 - Mar 2025: Qualified Teaching Assistant
+  * Center for Artifical Intelligence, Mathematical and Data Science, Nagoya University
+  * Duties included: Helping student to learn Data Science
 
-#* Summer 2015: Research Assistant
-  #* GitHub University
-  #* Duties included: Tagging issues
-  #* Supervisor: Professor Git
-  
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  
 Others
 ======
 * To be continued
