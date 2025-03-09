@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-1
 date: 2024-02-17
 venue: 'Chemical Engineering Journal'
-paperurl: '10.1016/j.cej.2024.149540'
+#paperurl: '10.1016/j.cej.2024.149540'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
