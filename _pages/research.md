@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Scope"
 permalink: /research/
 author_profile: true
 ---
 
-Research Scope
-======
 My research interests lie in gas-solid reacton thermochemistry, encompassing materials development, reaction kinetics, reaction module design, reactor design, and system optimization. 
 
 Specifically, my works focus on thermochemical energy storage technologies for medium- and high- temperature applications, as well as calcium oxide-based CO<sub>2</sub> capture and utilization technologies. 
