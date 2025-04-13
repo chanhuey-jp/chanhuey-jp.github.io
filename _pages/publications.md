@@ -66,6 +66,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Others
 
-- **1. 高温熱の高密度貯蔵・利用を目指した酸化還元反応型化学蓄熱システムの開発** 
+- **1. 高温熱の高密度貯蔵・利用を目指した酸化還元反応型化学蓄熱システムの開発**   
   *クリーンテクノロジー*, 2024  
   [Download Paper](https://www.nikko-pb.co.jp/products/detail.php?product_id=5872&srsltid=AfmBOoq26uEjLfEWjybVuuj917WeM9upULylYvluk1eA3gGc6KGI8Wvp)
