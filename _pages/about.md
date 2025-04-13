@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a project researcher (Post-doc) at Institute of Science Tokyo (formely Tokyo Institute of Technology) in Kato-takasu Lab [1](https://kato.zc.iir.titech.ac.jp/jp/index.html) & [2](https://sites.google.com/view/takasu-lab/) from April 2025. I received my Ph.D. degree in Engineering (Major: [Chemical Systems Engineering](https://www.material.nagoya-u.ac.jp/Chemical_Systems.html)), Lab: Kita-Kubota-Yamashita Laboratory [1](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) & [2](https://kubotam.jimdofree.com/)) from Nagoya University, Japan at the end of March 2025.
 
-I will receive my Ph.D. degree in Engineering (Major: [Chemical Systems Engineering](https://www.material.nagoya-u.ac.jp/Chemical_Systems.html)), Lab: Kita-Kubota-Yamashita Laboratory [1](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) & [2](https://kubotam.jimdofree.com/)) from Nagoya University, Japan at the end of March 2025. Starting in April of the same year, I will join the Kato-takasu Lab [1](https://kato.zc.iir.titech.ac.jp/jp/index.html) & [2](https://sites.google.com/view/takasu-lab/) at Institute of Science Tokyo (formely Tokyo Institute of Technology), Tokyo, Japan, as a postdoctoral researcher.
 
 Research Scope
 ======
