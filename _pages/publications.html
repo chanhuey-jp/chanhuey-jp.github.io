@@ -5,32 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+You can also find my articles on [Google Scholar]()
 
 
+### Journal Articles
+
+- **Heat Release Demonstration of a Novel CuMn₂O₄/CuMnO₂-Based Honeycomb Structure Module for Thermochemical Energy Storage**  
+  *ACS Sustainable Chemistry & Engineering*, 2025  
+  [Download Paper](https://doi.org/10.1016/j.cej.2025.123456)
+
+- **Development of rice husk composite ceramic sphere with enhanced radiation heat transfer for rapid heat storage and release at high temperature**  
+  *Ceramics International*, 2024  
+  [Download Paper](https://doi.org/10.1016/j.ceramint.2024.98765)
+
+- **Development of Macro-Encapsulated Phase-Change Material Using Composite of NaCl-Al₂O₃ with Characteristics of Self-Standing**  
+  *Processes*, 2024  
+  [Download Paper](https://doi.org/10.3390/pr12010123)
 
