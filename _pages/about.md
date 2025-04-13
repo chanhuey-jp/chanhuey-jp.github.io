@@ -10,7 +10,11 @@ I am currently a Project Researcher (Postdoctoral Fellow) at the Institute of Sc
 
 I received my Ph.D. degree in Engineering (Major: [Chemical Systems Engineering](https://www.material.nagoya-u.ac.jp/Chemical_Systems.html)) from Nagoya University, Japan, in March 2025. My master (Master degree in Engineering, received in March 2022) and doctoral researches were conducted in the Kita-Kubota-Yamashita Laboratory [1](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) & [2](https://kubotam.jimdofree.com/)). 
 
-My Ph.D. thesis focused on the development and demonstration of [an integrated redox-type thermochemical energy storage system for medium- to high-temperature applications](files/PhD_thesis.pdf). The reserach was supported by JSPS and jointly suprevised by [Dr. KITA Hideki](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) and [Dr. KUBOTA Mitsuhiro](https://kubotam.jimdofree.com/). My thesis defense committee included [Dr. KOBAYASHI Noriyuki](https://profs.provost.nagoya-u.ac.jp/html/100001833_ja.html), [Dr. MACHIDA Hiroshi](https://www.material.nagoya-u.ac.jp/nori_lab/), [Dr. NAGANO Hosei](https://www.eess.mech.nagoya-u.ac.jp/), and [Dr. HASEGAWA Yasuhisa](https://www.mein.nagoya-u.ac.jp/ja/index.html). 
+My Ph.D. thesis focused on the development and demonstration of [an integrated redox-type thermochemical energy storage system for medium- to high-temperature applications](files/PhD_thesis.pdf). The reserach was supported by JSPS and jointly suprevised by [Dr. KITA Hideki](https://profs.provost.nagoya-u.ac.jp/html/100006380_ja.html) and [Dr. KUBOTA Mitsuhiro](https://profs.provost.nagoya-u.ac.jp/html/100002055_en.html). My thesis defense committee included [Dr. KOBAYASHI Noriyuki](https://profs.provost.nagoya-u.ac.jp/html/100001833_en.html), [Dr. MACHIDA Hiroshi](https://profs.provost.nagoya-u.ac.jp/html/100002257_en.html), [Dr. NAGANO Hosei](https://profs.provost.nagoya-u.ac.jp/html/100002226_en.html), and [Dr. HASEGAWA Yasuhisa](https://profs.provost.nagoya-u.ac.jp/html/100001973_en.html). 
+
+I was born in Shashi, Jingzhou, a charming riverside (the Yangtze River) town in Hubei Province, located in the heart of China.![my childhood](/images/chillhood.jpg)
+
+At about the age of 12, I moved to Huadu, Guangzhou, Guangdong Province, where I spent most of my adolescence. I later pursued my undergraduate studies in Huizhou, obtaining a bachelor's degree in Chemical Engineering from Huizhou University.
 
 
 Research Scope
