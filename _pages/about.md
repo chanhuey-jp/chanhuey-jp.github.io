@@ -12,7 +12,11 @@ I received my Ph.D. degree in Engineering (Major: [Chemical Systems Engineering]
 
 My Ph.D. thesis focused on the development and demonstration of [an integrated redox-type thermochemical energy storage system for medium- to high-temperature applications](files/PhD_thesis.pdf). The reserach was supported by JSPS and jointly suprevised by [Dr. KITA Hideki](https://profs.provost.nagoya-u.ac.jp/html/100006380_ja.html) and [Dr. KUBOTA Mitsuhiro](https://profs.provost.nagoya-u.ac.jp/html/100002055_en.html). My thesis defense committee included [Dr. KOBAYASHI Noriyuki](https://profs.provost.nagoya-u.ac.jp/html/100001833_en.html), [Dr. MACHIDA Hiroshi](https://profs.provost.nagoya-u.ac.jp/html/100002257_en.html), [Dr. NAGANO Hosei](https://profs.provost.nagoya-u.ac.jp/html/100002226_en.html), and [Dr. HASEGAWA Yasuhisa](https://profs.provost.nagoya-u.ac.jp/html/100001973_en.html). 
 
-I was born in Shashi, Jingzhou, a charming riverside (the Yangtze River) town in Hubei Province, located in the heart of China.[![childhood](/images/childhood.JPG)](/images/childhood.JPG). At about the age of 12, I moved to Huadu, Guangzhou, Guangdong Province, where I spent most of my adolescence. I later pursued my undergraduate studies in Huizhou, obtaining a bachelor's degree in Chemical Engineering from Huizhou University.
+I was born in Shashi, Jingzhou, a charming riverside (the Yangtze River) town in Hubei Province, located in the heart of China. At about the age of 12, I moved to Huadu, Guangzhou, Guangdong Province, where I spent most of my adolescence. I later pursued my undergraduate studies in Huizhou, obtaining a bachelor's degree in Chemical Engineering from Huizhou University.
+
+<a href="/images/childhood.JPG" target="_blank">
+  <img src="/images/childhood.JPG" alt="childhood" width="300" style="border-radius: 8px;">
+</a>
 
 
 Research Scope
