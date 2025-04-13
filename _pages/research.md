@@ -13,21 +13,26 @@ Specifically, my works focus on thermochemical energy storage technologies for m
 
 Additionally, I am interested in the application of artificial intelligence and machine learning in materials sciences and chemical engineering, particularly in high-throughput new material development, data-driven production process optimization, and system-level optimization.
 
-## Project
+Project
+======
 
-### Porous Structure
+## Porous Structure Heat Storage Module
 
-![Porous Module](/images/porous_module.jpg)
+<a href="/images/porous_module.jpg" target="_blank">
+  <img src="/images/porous_module.jpg" alt="porous_module" width="300" style="border-radius: 8px;">
+</a>
 
-We used CuMn2O4/CuMnO2 as the raw material to prepare the porous structure heat storage module with PU template method
+We used CuMn<sub>2</sub>O<sub>4</sub>/CuMnO<sub>2</sub> as the raw material to prepare the porous structure heat storage module with PU template method
 
 [View paper](https://linkinghub.elsevier.com/retrieve/pii/S1385894724010258)
 
 
-### Honeycomb Structure
+## Honeycomb Structure Heat Storage Module
 
-![Honeycomb Module](/images/honeycomb_module.jpg)
+<a href="/images/honeycomb_module.jpg" target="_blank">
+  <img src="/images/honeycomb_module.jpg" alt="honeycomb_module" width="300" style="border-radius: 8px;">
+</a>
 
-We used CuMn2O4/CuMnO2 as the raw material to prepare the honeycomb structure heat storage module with extrusion method
+We used CuMn<sub>2</sub>O<sub>4</sub>/CuMnO<sub>2</sub> as the raw material to prepare the honeycomb structure heat storage module with extrusion method
 
 [View paper](https://pubs.acs.org/doi/10.1021/acssuschemeng.4c10715)
