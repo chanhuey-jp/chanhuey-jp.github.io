@@ -8,6 +8,6 @@ tags:
   - Nagoya University
 ---
 
-![Graduation](/images/graduation.jpg)
+![Graduation](/images/graduation.JPG)
 
 I successfully graduated from Nagoya University and obtained my Ph.D. degree. 
