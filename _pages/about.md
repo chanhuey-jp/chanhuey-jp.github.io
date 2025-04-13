@@ -20,12 +20,3 @@ My Ph.D. thesis focused on the development and demonstration of [an integrated r
 <a href="/images/childhood.JPG" target="_blank">
   <img src="/images/childhood.JPG" alt="childhood" width="300" style="border-radius: 8px;">
 </a>
-
-
-Research Scope
-======
-My research interests lie in gas-solid reacton thermochemistry, encompassing materials development, reaction kinetics, reaction module design, reactor design, and system optimization. 
-
-Specifically, my works focus on thermochemical energy storage technologies for medium- and high- temperature applications, as well as calcium oxide-based CO<sub>2</sub> capture and utilization technologies. 
-
-Additionally, I am interested in the application of artificial intelligence and machine learning in materials sciences and chemical engineering, particularly in high-throughput new material development, data-driven production process optimization, and system-level optimization.

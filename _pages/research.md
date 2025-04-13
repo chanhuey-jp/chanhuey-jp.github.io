@@ -13,7 +13,6 @@ Additionally, I am interested in the application of artificial intelligence and 
 
 Project
 ======
-
 ## Porous Structure Heat Storage Module
 
 <a href="/images/porous_module.jpg" target="_blank">
