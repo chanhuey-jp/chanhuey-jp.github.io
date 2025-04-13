@@ -5,20 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar]()
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=6npMlFQAAAAJ&hl=zh-CN)
 
 
-### Journal Articles
+## Journal Articles
 
-- **Heat Release Demonstration of a Novel CuMn₂O₄/CuMnO₂-Based Honeycomb Structure Module for Thermochemical Energy Storage**  
-  *ACS Sustainable Chemistry & Engineering*, 2025  
-  [Download Paper](https://doi.org/10.1016/j.cej.2025.123456)
+### First-author
 
-- **Development of rice husk composite ceramic sphere with enhanced radiation heat transfer for rapid heat storage and release at high temperature**  
-  *Ceramics International*, 2024  
-  [Download Paper](https://doi.org/10.1016/j.ceramint.2024.98765)
+- 1. **Heat Release Demonstration of a Novel CuMn<sub>2</sub>O<sub>4</sub>/CuMnO<sub>2</sub>-Based Honeycomb Structure Module for Thermochemical Energy Storage**  
+  *ACS Sustainable Chemistry & Engineering*, Apr 2025  
+  [Download Paper](https://pubs.acs.org/doi/10.1021/acssuschemeng.4c10715)
 
-- **Development of Macro-Encapsulated Phase-Change Material Using Composite of NaCl-Al₂O₃ with Characteristics of Self-Standing**  
-  *Processes*, 2024  
-  [Download Paper](https://doi.org/10.3390/pr12010123)
+- 2. **Development of redox-type thermochemical energy storage module: A support-free porous foam made of CuMn<sub>2</sub>O<sub>4</sub>/CuMnO<sub>2</sub> redox couple**  
+  *Chemical Engineering Journal*, Feb 2024  
+  [Download Paper](https://linkinghub.elsevier.com/retrieve/pii/S1385894724010258)
+
+- 3. **An in-depth oxidation kinetic study of CuCr<sub>x</sub>Mn<sub>1-x</sub>O<sub>2</sub> (x = 0, 0.1, 0.3) for thermochemical energy storage at medium-high temperature**  
+  *Solar Energy Materials and Solar Cells*, Aug 2023  
+  [Download Paper](https://linkinghub.elsevier.com/retrieve/pii/S0927024823003161)
 
