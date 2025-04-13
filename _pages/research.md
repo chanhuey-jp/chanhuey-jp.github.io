@@ -13,16 +13,21 @@ Specifically, my works focus on thermochemical energy storage technologies for m
 
 Additionally, I am interested in the application of artificial intelligence and machine learning in materials sciences and chemical engineering, particularly in high-throughput new material development, data-driven production process optimization, and system-level optimization.
 
-{% for post in site.research %}
-  <div class="research-item">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2> 
-    {% if post.image %}
-      <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 300px;"> 
-    {% endif %}
-    <p>{{ post.excerpt }}</p>
-    {% if post.link %}
-      <p><a href="{{ post.link }}" target="_blank">View More</a></p>
-    {% endif %}
-  </div>
-{% endfor %}
+## Project
 
+### Porous Structure
+
+![Porous Module](/images/porous_module.jpg)
+
+We used CuMn2O4/CuMnO2 as the raw material to prepare the porous structure heat storage module with PU template method
+
+[View paper](https://linkinghub.elsevier.com/retrieve/pii/S1385894724010258)
+
+
+### Honeycomb Structure
+
+![Honeycomb Module](/images/honeycomb_module.jpg)
+
+We used CuMn2O4/CuMnO2 as the raw material to prepare the honeycomb structure heat storage module with extrusion method
+
+[View paper](https://pubs.acs.org/doi/10.1021/acssuschemeng.4c10715)
