@@ -8,11 +8,8 @@ redirect_from:
 ---
 I am currently a Project Researcher (Postdoctoral Fellow) at the Institute of Science Tokyo (formely Tokyo Institute of Technology), working in the Kato-takasu Lab [1](https://kato.zc.iir.titech.ac.jp/jp/index.html) & [2](https://sites.google.com/view/takasu-lab/) since April 2025. 
 
-*Address:* Laboratory for Zero-Carbon Energy
-Institute of Integrated Research
-Institute of Science Tokyo
-2-12-1-N1-22, Ookayama, Meguro-ku, Tokyo 152-8550, Japan
-*E-mail:* xiaoyu.c.2070[at-mark]m.isct.ac.jp; chen.x.av[at-mark]m.titech.ac.jp
+**Address:** Laboratory for Zero-Carbon Energy, Institute of Integrated Research, Institute of Science Tokyo (2-12-1-N1-22, Ookayama, Meguro-ku, Tokyo 152-8550, Japan) 
+**E-mail:** xiaoyu.c.2070[at-mark]m.isct.ac.jp; chen.x.av[at-mark]m.titech.ac.jp
 
 I received my Ph.D. degree in Engineering (Major: [Chemical Systems Engineering](https://www.material.nagoya-u.ac.jp/Chemical_Systems.html)) from Nagoya University, Japan, in March 2025. My master (Master degree in Engineering, received in March 2022) and doctoral researches were conducted in the Kita-Kubota-Yamashita Laboratory [1](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) & [2](https://kubotam.jimdofree.com/)). 
 
