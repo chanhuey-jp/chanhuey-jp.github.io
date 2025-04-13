@@ -10,4 +10,6 @@ tags:
 
 ![Graduation](/images/graduation.JPG)
 
+![Graduation](/images/graduation2.JPG)
+
 I successfully graduated from Nagoya University and obtained my Ph.D. degree. 
