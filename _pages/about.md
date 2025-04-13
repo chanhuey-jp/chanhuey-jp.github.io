@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a project researcher (Post-doc) at Institute of Science Tokyo (formely Tokyo Institute of Technology) in Kato-takasu Lab [1](https://kato.zc.iir.titech.ac.jp/jp/index.html) & [2](https://sites.google.com/view/takasu-lab/) from April 2025. I received my Ph.D. degree in Engineering (Major: [Chemical Systems Engineering](https://www.material.nagoya-u.ac.jp/Chemical_Systems.html)), Lab: Kita-Kubota-Yamashita Laboratory [1](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) & [2](https://kubotam.jimdofree.com/)) from Nagoya University, Japan at the end of March 2025.
+I am currently a Project Researcher (Postdoctoral Fellow) at the Institute of Science Tokyo (formely Tokyo Institute of Technology), working in the Kato-takasu Lab [1](https://kato.zc.iir.titech.ac.jp/jp/index.html) & [2](https://sites.google.com/view/takasu-lab/) since April 2025. 
+
+I received my Ph.D. degree in Engineering (Major: [Chemical Systems Engineering](https://www.material.nagoya-u.ac.jp/Chemical_Systems.html)) from Nagoya University, Japan, in March 2025. My master (Master degree in Engineering, received in March 2022) and doctoral researches were conducted in the Kita-Kubota-Yamashita Laboratory [1](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) & [2](https://kubotam.jimdofree.com/)). 
+
+My Ph.D. thesis focused on the development and demonstration of [an integrated redox-type thermochemical energy storage system for medium- to high-temperature applications](files/PhD_thesis.pdf). The reserach was supported by JSPS and jointly suprevised by [Dr. KITA Hideki](https://www.material.nagoya-u.ac.jp/nuce/L17/index.html) and [Dr. KUBOTA Mitsuhiro](https://kubotam.jimdofree.com/). My thesis defense committee included [Dr. KOBAYASHI Noriyuki](https://profs.provost.nagoya-u.ac.jp/html/100001833_ja.html), [Dr. MACHIDA Hiroshi](https://www.material.nagoya-u.ac.jp/nori_lab/), [Dr. NAGANO Hosei](https://www.eess.mech.nagoya-u.ac.jp/), and [Dr. HASEGAWA Yasuhisa](https://www.mein.nagoya-u.ac.jp/ja/index.html). 
 
 
 Research Scope
