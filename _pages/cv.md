@@ -20,7 +20,7 @@ Education
 Experience
 ======
 * Apr 2025: Project Researcher
-  * Institute of Science Tokyo
+  * Laboratory for Zero-Carbon Energy, Institute of Science Tokyo
   * Research: e-fuel, CO<sub>2</sub> capture and utilization
   * Supervisor: Dr. Kato & Dr. Takasu
 
@@ -31,7 +31,7 @@ Experience
   * More information: [Click here](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ1071)
 
 * Jul 2024 - Sep 2024: Visiting student
-  * Hokkaido University
+  * Center for Advanced Research of Energy & Materials, Hokkaido University
   * Research: ML-assisted dopant optimization for operating temperature regulation in redox-type chemical heat storage materials
   * Supervisor: Dr. NOMURA Takahiro
   * More information: [Click here](https://www.eng.hokudai.ac.jp/labo/exergy/)
