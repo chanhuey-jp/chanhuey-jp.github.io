@@ -17,8 +17,8 @@ My Ph.D. thesis focused on the development and demonstration of [an integrated r
 
 *1997, I was born in Shashi, Jingzhou, a charming riverside (the Yangtze River) town in Hubei Province, located in the heart of China. At about the age of 12, I moved to Huadu, Guangzhou, Guangdong Province, where I spent most of my adolescence. I later pursued my undergraduate studies in Huizhou, obtaining a bachelor's degree in Chemical Engineering from Huizhou University.*
 
-**(Latest update: 2025/07/19)**
-
 <a href="/images/childhood.JPG" target="_blank">
   <img src="/images/childhood.JPG" alt="childhood" width="300" style="border-radius: 8px;">
 </a>
+
+**(Latest update: 2025/07/19)**
