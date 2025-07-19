@@ -7,7 +7,7 @@ tags:
   - Science Tokyo
 ---
 
-![Work](/images/first_day_work.JPG)
+![Work](/images/first_day_work.jpg)
 
 I joined Science Tokyo as a researcher. Today is my first day work.
 I hope I could enjoy the work and research life in Tokyo.
