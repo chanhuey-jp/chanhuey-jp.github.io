@@ -54,4 +54,4 @@ Awards
 
 Others
 ======
-* To be continued
+* "Emerging Young Scholar" Editorial Board Member of *Decarbon* [Click here](https://www.sciencedirect.com/journal/decarbon), Jun 2025 - May 2026 
