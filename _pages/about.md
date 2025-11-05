@@ -21,4 +21,4 @@ My Ph.D. thesis focused on the development and demonstration of [an integrated r
   <img src="/images/childhood.JPG" alt="childhood" width="300" style="border-radius: 8px;">
 </a>
 
-**(Latest update: 2025/07/19)**
+**(Latest update: 2025/11/05)**
