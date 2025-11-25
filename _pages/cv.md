@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemical Systems Enginnering, Nagoya University (Japan), 2025
-* M.S. in Chemical Systems Engineering, Nagoya University (Japan), 2022
-* B.S. in Chemical Engineering and Technology, Huizhou University (China), 2019
+* Doctor of Engineering (Ph.D.) in Chemical Systems Enginnering, Nagoya University (Japan), 2025
+* Master of Engineering in Chemical Systems Engineering, Nagoya University (Japan), 2022
+* Bachelor of Engineering in Chemical Engineering and Technology, Huizhou University (China), 2019
 
 Experience
 ======
