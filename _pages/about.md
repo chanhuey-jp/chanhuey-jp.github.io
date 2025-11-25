@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Project Researcher (Postdoctoral Fellow) at the Institute of Science Tokyo (東京科学大学) (formely Tokyo Institute of Technology (東京工業大学)), working in the Kato-takasu Lab [1](https://kato.zc.iir.titech.ac.jp/jp/index.html) & [2](https://sites.google.com/view/takasu-lab/) since April 2025. 
+I am currently a Project Researcher (Postdoctoral Fellow) at the Institute of Science Tokyo (東京科学大学) (formely Tokyo Institute of Technology (東京工業大学)), working in the [Kato](https://kato.zc.iir.titech.ac.jp/jp/index.html)-[Takasu](https://sites.google.com/view/takasu-lab/) Lab since April 2025. 
 
 **Address:** Laboratory for Zero-Carbon Energy, Institute of Integrated Research, Institute of Science Tokyo (2-12-1-N1-22, Ookayama, Meguro-ku, Tokyo 152-8550, Japan)  
 **E-mail:** xiaoyu.c.2070[at-mark]m.isct.ac.jp; chen.x.av[at-mark]m.titech.ac.jp
@@ -21,4 +21,4 @@ My Ph.D. thesis focused on the development and demonstration of [an integrated r
   <img src="/images/childhood.JPG" alt="childhood" width="300" style="border-radius: 8px;">
 </a>
 
-**(Latest update: 2025/11/05)**
+**(Latest update: 2025/11/25)**
