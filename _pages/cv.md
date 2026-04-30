@@ -19,7 +19,7 @@ Education
 
 Experience
 ======
-* May 2025: Specially Appointed Assistant Professor
+* May 2026: Specially Appointed Assistant Professor
   * Laboratory for Zero-Carbon Energy, **Institute of Science Tokyo**
   * Research: e-fuel, CO<sub>2</sub> capture and utilization
   * Supervisor: Dr. Kato & Dr. Takasu
