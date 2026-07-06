@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Doctor of Engineering (Ph.D.) in Chemical Systems Enginnering, Nagoya University (Japan), 2025
+* Doctor of Engineering (Ph.D.) in Chemical Systems Engineering, Nagoya University (Japan), 2025
 * Master of Engineering in Chemical Systems Engineering, Nagoya University (Japan), 2022
 * Bachelor of Engineering in Chemical Engineering and Technology, Huizhou University (China), 2019
 
@@ -42,7 +42,7 @@ Experience
   * More information: [Click here](https://www.eng.hokudai.ac.jp/labo/exergy/)
 
 * May 2022 - Mar 2025: Qualified Teaching Assistant (QTA)
-  * Center for Artifical Intelligence, Mathematical and Data Science, **Nagoya University**
+  * Center for Artificial Intelligence, Mathematical and Data Science, **Nagoya University**
   * Duties: Helping student to learn Data Science
   * More information: [Click here](https://www.mds.nagoya-u.ac.jp/)
 

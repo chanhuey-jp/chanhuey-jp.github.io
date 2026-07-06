@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "CHEN Xiaoyu's Homepage"
 title_separator          : "-"
 name                     : &name "CHEN Xiaoyu"
-description              : &description "personal description"
+description              : &description "Researcher in thermochemical energy storage and CO2 capture at Institute of Science Tokyo."
 url                      : https://chanhuey-jp.github.io # the base hostname & protocol for your site e.g. "https://chanhuey-jp.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chanhuey-jp/chanhuey-jp.github.io"
@@ -29,11 +29,11 @@ author:
   location         : "Tokyo, Japan"
   employer         : "Institute of Science Tokyo"
   uri              : # URL
-  email            : "chenxiaoyu.jp[at_mark]gmail.com" 
+  email            : "chenxiaoyu.jp[at-mark]gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=6npMlFQAAAAJ&hl=EN"
+  googlescholar    : "https://scholar.google.com/citations?user=6npMlFQAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
