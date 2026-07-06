@@ -1,15 +1,17 @@
 ---
-title: 'I graduated from Nagoya University!'
+title: 'Received my Ph.D. from Nagoya University'
 date: 2025-03-25
-permalink: /posts/2025/03/gradution
+permalink: /posts/2025/03/graduation
+redirect_from:
+  - /posts/2025/03/gradution
 tags:
   - Ph.D. degree
   - Graduation
   - Nagoya University
 ---
 
-![Graduation](/images/20250325_graduation.jpg)
+![CHEN Xiaoyu at the Nagoya University graduation ceremony](/images/20250325_graduation.jpg)
 
-![Graduation](/images/20250325_graduation2.jpg)
+![CHEN Xiaoyu with labmates at graduation](/images/20250325_graduation2.jpg)
 
-I successfully graduated from Nagoya University and obtained my Ph.D. degree. 
+I successfully graduated from Nagoya University and obtained my Ph.D. degree in Chemical Systems Engineering.

@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> **I develop reversible gas–solid reactions to store heat and capture CO<sub>2</sub> — for a carbon-neutral future.**
+
 I am currently a Specially Appointed Assistant Professor at the Institute of Science Tokyo (東京科学大学) (formerly Tokyo Institute of Technology (東京工業大学)), working in the [Kato](https://kato.zc.iir.titech.ac.jp/jp/index.html)-[Takasu](https://sites.google.com/view/takasu-lab/) Lab.
 
 **Address:** Laboratory for Zero-Carbon Energy, Institute of Integrated Research, Institute of Science Tokyo (2-12-1-N1-22, Ookayama, Meguro-ku, Tokyo 152-8550, Japan)  
@@ -21,4 +23,8 @@ My Ph.D. thesis focused on the development and demonstration of [an integrated r
   <img src="/images/childhood.JPG" alt="childhood" width="300" style="border-radius: 8px;">
 </a>
 
-**(Latest update: 2026/5/1)**
+## News
+
+{% include news.html %}
+
+**(Last updated: {{ site.time | date: "%Y/%-m/%-d" }})**

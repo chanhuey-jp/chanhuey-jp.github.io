@@ -1,5 +1,5 @@
 ---
-title: 'I joined Science Tokyo, today is my first day work!'
+title: 'Joined Science Tokyo as a Project Researcher'
 date: 2025-04-01
 permalink: /posts/2025/04/first_day_work
 tags:
@@ -7,7 +7,6 @@ tags:
   - Science Tokyo
 ---
 
-![Work](/images/20250401_first_day_work.jpg)
+![CHEN Xiaoyu on the first day at Institute of Science Tokyo](/images/20250401_first_day_work.jpg)
 
-I joined Science Tokyo as a researcher. Today is my first day work.
-I hope I could enjoy the work and research life in Tokyo.
+Today is my first day at the Institute of Science Tokyo, where I have joined the Kato–Takasu Lab as a Project Researcher. I look forward to the work and research life in Tokyo.

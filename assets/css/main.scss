@@ -40,3 +40,37 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* ==========================================================================
+   Custom — News feed on the About page (pulls from latest blog posts)
+   ========================================================================== */
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1em;
+}
+
+.news-list li {
+  display: flex;
+  gap: 0.9em;
+  align-items: baseline;
+  padding: 0.45em 0;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 0.95em;
+}
+
+.news-list li:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  flex: none;
+  width: 4.2em;
+  color: var(--global-text-color-light);
+  font-variant-numeric: tabular-nums;
+}
+
+.news-more {
+  font-size: 0.9em;
+  margin-top: 0.5em;
+}
