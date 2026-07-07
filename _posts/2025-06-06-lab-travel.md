@@ -1,7 +1,9 @@
 ---
 title: 'Lab travel to Lake Sagami'
 date: 2025-06-06
-permalink: /posts/2025/06/lab_travel_2025
+permalink: /posts/2025/06/lab-travel
+redirect_from:
+  - /posts/2025/06/lab_travel_2025
 tags:
   - Lab life
   - Travel

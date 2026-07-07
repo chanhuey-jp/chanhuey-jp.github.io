@@ -1,7 +1,9 @@
 ---
 title: 'Joined Science Tokyo as a Project Researcher'
 date: 2025-04-01
-permalink: /posts/2025/04/first_day_work
+permalink: /posts/2025/04/first-day-work
+redirect_from:
+  - /posts/2025/04/first_day_work
 tags:
   - Researcher work
   - Science Tokyo

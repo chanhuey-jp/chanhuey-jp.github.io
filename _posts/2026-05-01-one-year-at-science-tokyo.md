@@ -1,7 +1,9 @@
 ---
 title: 'Became a Specially Appointed Assistant Professor at Science Tokyo'
 date: 2026-05-01
-permalink: /posts/2026/05/one_year_at_ScienceTokyo
+permalink: /posts/2026/05/one-year-at-science-tokyo
+redirect_from:
+  - /posts/2026/05/one_year_at_ScienceTokyo
 tags:
   - Researcher work
   - Science Tokyo
