@@ -45,8 +45,8 @@ TGA and DSC techniques are used to evaluate reaction behavior and extract kineti
 Beyond conventional packed-bed reactors, structured modules such as **honeycomb monoliths** and **porous foams** have gained attention due to their high reactivity and low pressure drop. Fluidized-bed and stirred-bed reactors are also explored to mitigate sintering and agglomeration issues. Across all designs, optimizing heat/mass transfer and improving energy density and cycling efficiency remain central objectives.
 
 <p>
-  <a href="/images/honeycomb_module.jpg" target="_blank"><img src="/images/honeycomb_module.jpg" alt="honeycomb module" width="240" style="border-radius: 8px; margin-right: 12px;"></a>
-  <a href="/images/porous_module.jpg" target="_blank"><img src="/images/porous_module.jpg" alt="porous module" width="240" style="border-radius: 8px;"></a>
+  <a href="/images/honeycomb-module.jpg" target="_blank"><img src="/images/honeycomb-module.jpg" alt="honeycomb module" width="240" style="border-radius: 8px; margin-right: 12px;"></a>
+  <a href="/images/porous-module.jpg" target="_blank"><img src="/images/porous-module.jpg" alt="porous module" width="240" style="border-radius: 8px;"></a>
 </p>
 <em>CuMn<sub>2</sub>O<sub>4</sub>/CuMnO<sub>2</sub> honeycomb monolith (left) and support-free porous foam (right) heat-storage modules.</em>
 

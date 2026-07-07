@@ -10,8 +10,8 @@ tags:
   - Nagoya University
 ---
 
-![CHEN Xiaoyu at the Nagoya University graduation ceremony](/images/20250325_graduation.jpg)
+![CHEN Xiaoyu at the Nagoya University graduation ceremony](/images/20250325-graduation.jpg)
 
-![CHEN Xiaoyu with labmates at graduation](/images/20250325_graduation2.jpg)
+![CHEN Xiaoyu with labmates at graduation](/images/20250325-graduation-2.jpg)
 
 I successfully graduated from Nagoya University and obtained my Ph.D. degree in Chemical Systems Engineering.
