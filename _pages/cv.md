@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**You can also find my CV here:** [Download CV (PDF)](/files/cv.pdf)  
+**You can also find my CV here:** [Download CV (PDF)](/files/cv_english.pdf) or [Download CV in Chinese(PDF)](/files/cv_chinese.pdf)
 
 Education
 ======
