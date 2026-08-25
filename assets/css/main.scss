@@ -74,3 +74,26 @@
   font-size: 0.9em;
   margin-top: 0.5em;
 }
+
+/* Visitor counter and current-IP panel in the global footer. */
+.visitor-stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.55em 1.2em;
+  margin: 0 0 0.8em;
+  font-size: 0.82em;
+  color: var(--global-footer-text-color);
+}
+
+.visitor-stats__item {
+  white-space: nowrap;
+}
+
+.visitor-stats__item i {
+  margin-right: 0.3em;
+}
+
+.visitor-stats__item strong {
+  font-variant-numeric: tabular-nums;
+}

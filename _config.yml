@@ -151,6 +151,11 @@ analytics:
   google:
     tracking_id          :
 
+# Public visitor widget in the site footer.
+# The IP address is fetched and shown only in the visitor's own browser.
+visitor_stats:
+  enabled                : true
+
 
 # Reading Files
 include:

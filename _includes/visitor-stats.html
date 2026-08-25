@@ -1,0 +1,17 @@
+<div class="visitor-stats" aria-label="Visitor statistics">
+  <span id="busuanzi_container_site_pv" class="visitor-stats__item">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+    Views <strong id="busuanzi_value_site_pv">—</strong>
+  </span>
+  <span id="busuanzi_container_site_uv" class="visitor-stats__item">
+    <i class="fa fa-users" aria-hidden="true"></i>
+    Visitors <strong id="busuanzi_value_site_uv">—</strong>
+  </span>
+  <span class="visitor-stats__item" title="Only your current public IP is shown; it is not published by this site.">
+    <i class="fa fa-network-wired" aria-hidden="true"></i>
+    Your IP <strong id="visitor-ip" aria-live="polite">Loading…</strong>
+  </span>
+</div>
+
+<script async src="https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/bsz.pure.mini.js"></script>
+<script src="{{ '/assets/js/visitor-stats.js' | relative_url }}" defer></script>
