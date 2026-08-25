@@ -39,6 +39,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ### Co-author
 
+- **7. Carbon dioxide capture performance of a highly durable calcium oxide composite supported on silicon carbide-based foam**  
+  *Chemical Engineering Journal*, Aug 2026  
+  [Download Paper](https://www.sciencedirect.com/science/article/abs/pii/S138589472608174X)
+
 - **6. Development of rice husk composite ceramic sphere with enhanced radiation heat transfer for rapid heat storage and release at high temperature**  
   *Ceramics International*, Jul 2024  
   [Download Paper](https://linkinghub.elsevier.com/retrieve/pii/S0272884224030475)
