@@ -39,7 +39,13 @@ author_profile: true
     object-fit: contain;
   }
   .project-module-gallery figcaption {
-    margin-top: 0.65rem;
+    display: block;
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin: 0.65rem 0 0;
+    padding: 0;
+    text-align: center;
     font-size: 0.85em;
     line-height: 1.35;
   }
