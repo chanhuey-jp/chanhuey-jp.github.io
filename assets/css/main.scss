@@ -97,3 +97,51 @@
 .visitor-stats__item strong {
   font-variant-numeric: tabular-nums;
 }
+
+/* Matched image panels for the two thermochemical storage modules. */
+.project-module-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.project-module-gallery__item {
+  min-width: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.project-module-gallery__item a {
+  display: block;
+}
+
+.project-module-gallery__image-frame {
+  display: flex;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.project-module-gallery__image-frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+.project-module-gallery figcaption {
+  margin-top: 0.65rem;
+  font-size: 0.85em;
+  line-height: 1.35;
+}
+
+@media (max-width: 600px) {
+  .project-module-gallery {
+    grid-template-columns: 1fr;
+  }
+}

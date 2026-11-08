@@ -7,18 +7,22 @@ author_profile: true
 
 ## CuMn<sub>2</sub>O<sub>4</sub>/CuMnO<sub>2</sub>-Based Thermochemical Energy Storage Modules
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 1rem;">
-  <figure style="flex: 1 1 260px; margin: 0; text-align: center;">
+<div class="project-module-gallery">
+  <figure class="project-module-gallery__item">
     <a href="/images/porous-module.jpg" target="_blank">
-      <img src="/images/porous-module.jpg" alt="Support-free porous foam thermochemical energy storage module" style="width: 100%; max-width: 360px; border-radius: 8px;">
+      <span class="project-module-gallery__image-frame">
+        <img src="/images/porous-module.jpg" alt="Support-free porous foam thermochemical energy storage module">
+      </span>
     </a>
-    <figcaption style="font-size: 0.85em; margin-top: 0.35rem;">Support-free porous foam module</figcaption>
+    <figcaption>Support-free porous foam module</figcaption>
   </figure>
-  <figure style="flex: 1 1 260px; margin: 0; text-align: center;">
+  <figure class="project-module-gallery__item">
     <a href="/images/honeycomb-module.jpg" target="_blank">
-      <img src="/images/honeycomb-module.jpg" alt="Extruded honeycomb thermochemical energy storage module" style="width: 100%; max-width: 360px; border-radius: 8px;">
+      <span class="project-module-gallery__image-frame">
+        <img src="/images/honeycomb-module.jpg" alt="Extruded honeycomb thermochemical energy storage module">
+      </span>
     </a>
-    <figcaption style="font-size: 0.85em; margin-top: 0.35rem;">Extruded honeycomb module</figcaption>
+    <figcaption>Extruded honeycomb module</figcaption>
   </figure>
 </div>
 
