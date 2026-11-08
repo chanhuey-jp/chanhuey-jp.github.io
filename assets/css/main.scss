@@ -97,3 +97,9 @@
 .visitor-stats__item strong {
   font-variant-numeric: tabular-nums;
 }
+
+/* Georgia for editorial body content; interface typography stays unchanged. */
+.page__content,
+.archive {
+  font-family: Georgia, Times, serif;
+}
