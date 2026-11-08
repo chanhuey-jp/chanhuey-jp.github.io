@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ '/assets/css/thermochemical-cycle.css' | relative_url }}">
+<div id="thermochemical-cycle" class="thermochemical-cycle">
+<header class="module-header"><h3>A reversible thermochemical cycle.</h3></header>
+<section aria-label="Animated thermochemical process">
+<div class="stage">
+<div class="scene-top"><div><span id="stageTag">01 / CHARGING</span><strong id="formula">CaCO₃ + heat → CaO + CO₂</strong></div></div>
+<canvas id="scene" role="img" aria-label="Isometric reaction vessel and gas reservoir. Pellets progressively decrease during charging and return during discharging; a residual solid remains. Pellet counts are schematic. Animated particles show gas transfer and warm pulses show heat transfer."></canvas>
+</div>
+<div class="timeline" aria-label="Select a process stage"><button class="step" data-stage="0" aria-pressed="true"><span>01</span><b>Charge</b></button><button class="step" data-stage="1" aria-pressed="false"><span>02</span><b>Store</b></button><button class="step" data-stage="2" aria-pressed="false"><span>03</span><b>Discharge</b></button></div>
+<div class="detail" aria-live="polite"><p id="description">Heat decomposes the solid, releasing gas into a separate reservoir.</p></div>
+</section>
+<!-- References: https://www.dlr.de/en/tt/research-transfer/expertise/research-area-heat-storage/thermochemical-systems ; https://pmc.ncbi.nlm.nih.gov/articles/PMC10626580/ ; design reference https://www.heirloomcarbon.com/technology -->
+</div>
+<script src="{{ '/assets/js/thermochemical-cycle.js' | relative_url }}" defer></script>

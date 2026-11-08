@@ -1,0 +1,34 @@
+/* Styles scoped to the Research-page animation. */
+.thermochemical-cycle{--ink:#193a3e;--muted:#637573;--line:#ced6cf;max-width:960px;margin:1.5em auto 1.25em;scroll-margin-top:90px;color:var(--ink);font:16px/1.6 Arial,Helvetica,sans-serif}
+.thermochemical-cycle *{box-sizing:border-box}
+.thermochemical-cycle .module-header{margin:0 0 14px}
+.thermochemical-cycle .module-header h3{font:400 25px/1.25 Georgia,serif;letter-spacing:-.025em;margin:0}
+.thermochemical-cycle .stage{position:relative;background:#15393f;color:#ecf2e9;min-height:350px;overflow:hidden}
+.thermochemical-cycle canvas{display:block;width:100%;height:350px}
+.thermochemical-cycle .scene-top{position:absolute;top:20px;left:24px;right:24px;z-index:1;pointer-events:none}
+.thermochemical-cycle .scene-top div{display:flex;flex-direction:column;gap:6px}
+.thermochemical-cycle .scene-top span{font:11px monospace;letter-spacing:.14em;color:#b8cdc5}
+.thermochemical-cycle .scene-top strong{font-size:18px;font-weight:400;color:#ecf2e9}
+.thermochemical-cycle .timeline{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;padding-top:16px}
+.thermochemical-cycle .step{position:relative;text-align:left;background:transparent;border:0;border-top:1px solid var(--line);border-radius:0;color:var(--muted);padding:12px 0 8px;cursor:pointer;font:inherit;margin:0;box-shadow:none}
+.thermochemical-cycle .step:before{content:'';position:absolute;top:-1px;left:0;height:2px;width:0;background:var(--ink);transition:width .3s}
+.thermochemical-cycle .step[aria-pressed=true]{color:var(--ink)}
+.thermochemical-cycle .step[aria-pressed=true]:before{width:100%}
+.thermochemical-cycle .step span{font:10px monospace;letter-spacing:.1em;margin-right:8px}
+.thermochemical-cycle .step b{font-size:16px;font-weight:400}
+.thermochemical-cycle .step:focus-visible{outline:3px solid #c17d50;outline-offset:4px}
+.thermochemical-cycle .detail{min-height:60px;padding-top:12px}
+.thermochemical-cycle .detail p{color:var(--muted);font:14px/1.6 Arial,Helvetica,sans-serif;margin:0}
+@media(max-width:600px){
+.thermochemical-cycle .module-header h3{font-size:23px}
+.thermochemical-cycle .stage{min-height:310px}
+.thermochemical-cycle canvas{height:310px}
+.thermochemical-cycle .scene-top{top:16px;left:18px}
+.thermochemical-cycle .scene-top strong{font-size:16px}
+.thermochemical-cycle .scene-top span{font-size:10px}
+.thermochemical-cycle .timeline{gap:14px}
+.thermochemical-cycle .step span{display:block;margin:0 0 4px}
+.thermochemical-cycle .detail{min-height:82px}
+.thermochemical-cycle .detail p{font-size:13px}
+}
+@media(prefers-reduced-motion:reduce){.thermochemical-cycle .step:before{transition:none}}

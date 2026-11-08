@@ -15,6 +15,8 @@ Under specific temperature and pressure conditions, solid A decomposes into soli
 
 ---
 
+{% include thermochemical-cycle.html %}
+
 ## Typical Reaction Systems
 
 Based on this reversible behavior, gas–solid thermochemical reactions play an essential role in **energy storage** and **gas separation/recovery**. The systems I currently focus on include the H<sub>2</sub>O system (Eq.2), O<sub>2</sub> system (Eq.3), and CO<sub>2</sub> system (Eq.4). These reactions can be applied to **Thermochemical Energy Storage (TCES)** as well as **Carbon Dioxide Capture, Utilization, and Storage (CCUS)**.
