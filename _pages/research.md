@@ -35,19 +35,19 @@ Despite the different application targets, both systems share common evaluation 
 
 ## Research Methodology and Core Concerns
 
-Research on gas–solid thermochemical systems requires a multi-scale approach:
+{% include research-pathway.html %}
 
-### **1. Materials Development**
-The goal is to develop materials with high structural stability, excellent cycling durability, and cost-effectiveness. Typical materials include metal hydroxides (Me(OH)<sub>x</sub>), metal oxides (MeO<sub>x</sub>), and carbonates (MeCO<sub>x</sub>). Doping strategies and micro-/macro-structural engineering are widely used to enhance energy density, reaction rates, and heat transfer.
+### 1. Materials Development
+Develop metal hydroxides (Me(OH)<sub>x</sub>), oxides (MeO<sub>x</sub>) and carbonates (MeCO<sub>x</sub>) for high reaction capacity and cycling stability. Composition tuning and pore-structure engineering balance reactivity, heat transfer and cost.
 
-### **2. Reaction Kinetics Analysis**
-TGA and DSC techniques are used to evaluate reaction behavior and extract kinetic parameters such as rate constants and activation energies. These parameters support the development of kinetic models, which in turn provide essential input for reactor design.
+### 2. Reaction Kinetics Analysis
+Use TGA and DSC to characterize reaction behaviour and determine kinetic parameters. The resulting models provide reaction-rate inputs for reactor design.
 
-### **3. Reaction Module and Reactor Design**
-Beyond conventional packed-bed reactors, structured modules such as **honeycomb monoliths** and **porous foams** have gained attention due to their high reactivity and low pressure drop. Fluidized-bed and stirred-bed reactors are also explored to mitigate sintering and agglomeration issues. Across all designs, optimizing heat/mass transfer and improving energy density and cycling efficiency remain central objectives.
+### 3. Reaction Module and Reactor Design
+Design structured modules, including honeycombs and porous foams, to improve heat and mass transfer while limiting pressure drop. Reactor development also addresses sintering, agglomeration and cycling performance.
 
-### **4. System Integration and Optimization**
-Energy and mass balance calculations enable integration of thermochemical reaction systems into target applications, including waste heat recovery, solar-thermal power systems, and CO<sub>2</sub> capture and utilization processes.
+### 4. System Integration and Optimization
+Apply energy and mass balances to integrate reactors with waste heat recovery, solar-thermal systems and CO<sub>2</sub> capture processes.
 
 ---
 

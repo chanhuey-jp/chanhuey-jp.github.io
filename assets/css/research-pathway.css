@@ -1,0 +1,32 @@
+/* Shared visual language with the thermochemical-cycle scene. */
+.research-pathway{--rp-ink:#41464c;--rp-muted:#6c7076;--rp-line:#d8dde1;--rp-gas:#627e96;margin:1.5em 0 2em;padding:24px;scroll-margin-top:210px;color:var(--rp-ink);background:#f7f7f7;position:relative}
+.research-pathway *{box-sizing:border-box}
+.research-pathway .rp-stages{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:25px;background-image:repeating-linear-gradient(25deg,transparent 0,transparent 45px,rgba(150,155,160,.04) 46px,transparent 47px)}
+.research-pathway .rp-stage{position:relative;display:flex;flex-direction:column;align-items:flex-start;width:100%;min-width:0;padding:12px 8px 18px;border:0;border-bottom:2px solid var(--rp-line);border-radius:0;box-shadow:none;background:transparent;color:var(--rp-ink);text-align:left;cursor:pointer;font-family:Arial,Helvetica,sans-serif;transition:background .25s,border-color .25s}
+.research-pathway .rp-stage[aria-pressed=true]{background:rgba(110,120,130,.055);border-bottom-color:#6b7f90}
+.research-pathway .rp-stage:hover{background:rgba(110,120,130,.055)}
+.research-pathway .rp-stage:focus-visible{outline:3px solid var(--rp-gas);outline-offset:4px}
+.research-pathway .rp-stage:not(:last-child):after{content:'»';position:absolute;right:-22px;top:91px;color:var(--rp-gas);font:24px Arial,sans-serif}
+.research-pathway .rp-number{font:10px/1.5 monospace;letter-spacing:.06em;color:var(--rp-muted)}
+.research-pathway svg{display:block;width:100%;height:138px;margin:10px 0 14px;overflow:visible;fill:none;stroke:#a5b0ba;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}
+.research-pathway .rp-grid{stroke:#a0aab3;stroke-opacity:.45;stroke-width:1}
+.research-pathway .rp-curve{stroke:var(--rp-gas);stroke-width:2.3;filter:drop-shadow(0 0 3px rgba(150,165,180,.25))}
+.research-pathway .rp-points{fill:var(--rp-gas);stroke:none}
+.research-pathway .rp-flow{stroke:var(--rp-gas);stroke-width:2;filter:drop-shadow(0 0 3px rgba(150,165,180,.25))}
+.research-pathway .rp-name{font:400 18px/1.2 Arial,Helvetica,sans-serif;margin-bottom:8px}
+.research-pathway .rp-subtitle{font:12px/1.5 Arial,Helvetica,sans-serif;color:var(--rp-muted)}
+.research-pathway .rp-stage.rp-motion .rp-curve{stroke-dasharray:1;animation:rp-curve-reveal 1s ease both}
+.research-pathway .rp-stage.rp-motion .rp-flow{animation:rp-flow-pulse .8s ease}
+@keyframes rp-curve-reveal{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes rp-flow-pulse{50%{stroke-width:3.5}}
+@media(max-width:650px){
+ .research-pathway{padding:18px;scroll-margin-top:150px}
+ .research-pathway .rp-stages{grid-template-columns:1fr;gap:18px}
+ .research-pathway .rp-stage{display:grid;grid-template-columns:94px 1fr;column-gap:14px;align-items:center;padding:10px 6px}
+ .research-pathway svg{grid-column:1;grid-row:1/4;height:92px;margin:0}
+ .research-pathway .rp-number{grid-column:2;align-self:end}
+ .research-pathway .rp-name{grid-column:2;margin:4px 0;font-size:18px}
+ .research-pathway .rp-subtitle{grid-column:2;align-self:start}
+ .research-pathway .rp-stage:not(:last-child):after{content:'↓';top:auto;bottom:-21px;right:50%;font-size:18px}
+}
+@media(prefers-reduced-motion:reduce){.research-pathway .rp-stage{transition:none}.research-pathway .rp-stage.rp-motion .rp-curve,.research-pathway .rp-stage.rp-motion .rp-flow{animation:none}}
